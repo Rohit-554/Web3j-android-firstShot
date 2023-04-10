@@ -1,8 +1,6 @@
 # Web3j-android-firstShot
 App that will send ethers to specific address using web3j, transaction over local blockchain Ganache and Metamask
 
-# sendEthers
-This projects sends and withdraws ether over Ganache :)  
 
 <h3>Tech Stacks</h3>
 
